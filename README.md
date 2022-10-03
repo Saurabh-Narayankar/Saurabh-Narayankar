@@ -10,7 +10,7 @@ I am a web developer who loves to code in Javascript and frameworks based on Js!
 * 🖥️  See my portfolio at [Portfolio](http://saurabh.com)
 * ✉️  You can contact me at [narayankarsaurabh1@gmail.com](mailto:narayankarsaurabh1@gmail.com)
 * 🚀  I'm currently working on [NextCharts - data visualisation made easy](http://nextcharts.vercel.app)
-* 🧠  I'm learning JavaScript in detail along with its DSA
+* 🧠  I'm learning JavaScript along with its DSA
 * 🤝  I'm open to collaborating on some interesting projects
 
 ### Skills
