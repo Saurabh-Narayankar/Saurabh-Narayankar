@@ -8,7 +8,7 @@ I am a web developer who loves to code in Javascript and frameworks based on Js!
 
 *   🌍  I'm based in Thane, Maharashtra
 *   ✉️  You can contact me at [narayankarsaurabh1@gmail.com](mailto:narayankarsaurabh1@gmail.com)
-*   🚀  My Projects
+*   🚀  <b><ins>My Projects</ins></b>  🚀 
      *  [NextCharts - data visualisation made easy](http://next-charts-dun.vercel.app/)
      *  [NextEvents]
 *   🤝  I'm open to collaborating on interesting projects### Skills 
