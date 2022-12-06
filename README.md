@@ -9,9 +9,10 @@ I am a web developer who loves to code in Javascript and frameworks based on Js!
 *   🌍  I'm based in Thane, Maharashtra
 *   ✉️  You can contact me at [narayankarsaurabh1@gmail.com](mailto:narayankarsaurabh1@gmail.com)
 *   🖥️  See my portfolio at [MyPortfolio](https://saurabh-narayankar-portfolio.netlify.app)
-*   🚀  <b><ins>My Projects</ins></b>  🚀 
+*   🚀 <b><ins>My Projects</ins></b> 🚀
      *  [NextCharts - data visualisation made easy](http://next-charts-dun.vercel.app/)
      *  [ECommerce App](https://saurabh-ecommerce-site.netlify.app)
+
 *   🤝  I'm open to collaborating on interesting projects
     
  ### Skills 
