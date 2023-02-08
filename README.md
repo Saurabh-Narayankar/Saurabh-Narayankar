@@ -10,7 +10,8 @@ I am a web developer who loves to code in Javascript and frameworks based on Js!
 *   ✉️  You can contact me at [narayankarsaurabh1@gmail.com](mailto:narayankarsaurabh1@gmail.com)
 *   🖥️  See my portfolio at [MyPortfolio](https://saurabhn-portfolio.netlify.app)
 *   🚀 <b><ins>My Projects</ins></b> 🚀
-     *  [NextCharts - data visualisation made easy](http://next-charts-dun.vercel.app/)
+     *  [NextFitness-Complete fitness app](https://next-fitness.vercel.app/)
+     *  [NextCharts - data visualisation made easy](https://next-charts-dun.vercel.app/)
      *  [ECommerce App](https://saurabhn-ecommerce.netlify.app)
 
 *   🤝  I'm open to collaborating on interesting projects
